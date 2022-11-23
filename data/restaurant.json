@@ -1,0 +1,299 @@
+{
+  "restaurants": [
+    {
+      "id": 1,
+      "name": "King & Queen",
+      "place": "Chennai",
+      "famous": "Biryani"
+    },
+    {
+      "id": 2,
+      "name": "Andra Briyani",
+      "place": "Hydrabad",
+      "famous": "Biriyani"
+    },
+    {
+      "id": 3,
+      "name": "Chill Cafe",
+      "place": "Lucknow",
+      "famous": "Soft drinks"
+    },
+    {
+      "name": "Branden Kelly",
+      "place": "Dai Garza",
+      "famous": "Jaden Mathis",
+      "id": 4
+    },
+    {
+      "name": "Bake&Cook",
+      "place": "Bangalore",
+      "famous": "Grill Chicken",
+      "id": 7
+    },
+    {
+      "name": "Bake&Cook",
+      "place": "Bangalore",
+      "famous": "Grill Chicken",
+      "id": 8
+    },
+    {
+      "name": "hjkh",
+      "place": "hjhkj",
+      "famous": "kjhkjhkj",
+      "id": 9
+    }
+  ],
+
+  "pizza" :[
+    {
+        "img":"https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/margherita.90f9451fd66871fb6f9cf7d506053f18.1.jpg?width=450",
+        "item" : "Margherita",
+        "description": "Margherita",
+        "pieces": "No.of.pieces:3-4pcs",
+
+        "serves":" serves:4-5",
+        "mrp":"MRP: ₹269",
+        "id":"1"
+        
+        
+
+    },
+
+    {
+        "img" : "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/chicken-supreme.6d53f104f071d304a47440f2fffa7378.1.jpg?width=450",
+        "item": "Chicken Supreme",
+        "pieces": "No.of.pieces:3-4pcs",
+        
+        "serves":" serves:4-5",
+        "mrp":"MRP: ₹669",
+        "id":"2"
+        
+        
+
+    },
+
+    {
+        "img":"https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/chicken-supreme.6d53f104f071d304a47440f2fffa7378.1.jpg?width=450",
+        "item": "Double chiken saugage",
+        "pieces": "No.of.pieces:20pcs",
+        "serves":" serves:4",
+        "mrp":"MRP: ₹599",
+        "id":"3"
+
+    },
+
+    {
+        "img":"https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/chicken-supreme.6d53f104f071d304a47440f2fffa7378.1.jpg?width=450",
+        "item" : "Classic corn",
+        "item1": "Pizza topped with our Classic Pan sauce, sweet corn and cheesy dressing. An all-time favorite.",
+        "pieces": "No.of.pieces: 10",
+       
+        "serves":" serves:4",
+        "mrp":"MRP: ₹299",
+        "id":"4"
+
+    },
+
+    {
+        "img":"https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/tandoori-paneer.4ef45717e972cf45b43c010e3cde5a22.1.jpg?width=450",
+        "item" : "Italino Pizza",
+        "description": "Pizza topped with our Chef's Special Italian sauce, crunchy onion, juicy tomatoes and cheesy dressing.",
+        "pieces": "No.of.pieces:8 to 10pcs",
+        "serves":" serves:4",
+        "mrp":"MRP: ₹179",
+        "id":"5"
+    },
+
+    {
+        "img":"https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/only-cheesy-pan-personal.951dbe6ee07dafc48e04fe9a1bbe4ddb.1.jpg?width=450",
+        "item" : "Onle cheese",
+        "description": "Pizza topped with our Classic Pan sauce, flavorful chicken sausage and cheesy dressing.",
+        "pieces": "No.of.pieces:20pcs",
+        "serves":" serves:4",
+        "mrp":"MRP: ₹345",
+        "id":"6"
+
+    },
+
+    {
+       "img":"https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/veg-kebab-surprise.abab1dff179ab8cf95a59f30d6352297.1.jpg?width=450",
+        "item" : "Veg Kabab",
+        "description": "Veg Kebab, Onion, Green Capsicum, Tomato & Sweet Corn in Tandoori Sauce",
+        "pieces": "No.of.pieces:20pcs",
+        "serves":" serves:4",
+        "mrp":"MRP: ₹71",
+        "id":"7"
+
+    },
+
+    {
+
+        "img":"https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/triple-chicken-feast.e4a546e7a8581a60952b99e3fe22987e.1.jpg?width=450",
+        "item": "Triple chicken",
+        "pieces": "No.of.pieces:20pcs",
+        "serves":" serves:4",
+        "mrp":"MRP: ₹711",
+        "id":"8"
+
+    },
+    {
+
+      "img":"https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/chicken-tikka.6d441a65371e941db36c2754586119a8.1.jpg?width=450",
+      "item": "Chicken Thikka",
+      "pieces": "No.of.pieces:20pcs",
+      "serves":" serves:4",
+      "mrp":"MRP: ₹901",
+      "id":"9"
+
+  }
+
+    
+],
+"drinks":[
+  {
+    "img":"https://api.pizzahut.io/v1/content/en-in/in-1/images/drink/pepsi.ebd77460b7e104a70753241ad502abca.1.jpg?width=450",
+      "item": "Pepsi",
+    
+      "mrp":"MRP: ₹80",
+      "id":"1"
+  },
+  {
+    "img":"https://api.pizzahut.io/v1/content/en-in/in-1/images/drink/pepsi-black.05bd5ce9c59d6fea34befe77a4c5bdee.1.jpg?width=450",
+      "item": " Black Pepsi",
+    
+      "mrp":"MRP: ₹60",
+      "id":"2"
+  },
+  {
+    "img":"https://api.pizzahut.io/v1/content/en-in/in-1/images/drink/mirinda.b67f0e29703e70fd5dfe91f900dc0046.1.jpg?width=450",
+      "item": "Miranda",
+    
+      "mrp":"MRP: ₹95",
+      "id":"3"
+  },
+  {
+    "img":"https://api.pizzahut.io/v1/content/en-in/in-1/images/drink/7-up.15b00a4f5a8acd746ca6ae6f6e2d0330.1.jpg?width=450",
+      "item": "7up",
+    
+      "mrp":"MRP: ₹75",
+      "id":"4"
+  },
+  {
+    "img":"https://www.bigbasket.com/media/uploads/p/xxl/276214-8_1-sprite-soft-drink-lime-flavoured.jpg",
+      "item": "Sprite",
+    
+      "mrp":"MRP: ₹50",
+      "id":"5"
+  },
+  {
+    "img":"https://api.pizzahut.io/v1/content/en-in/in-1/images/drink/water-bottle-1000ml.32f62c675717e68e9aa542fe84dff3ad.1.jpg?width=450",
+      "item": "Water Bottle",
+    
+      "mrp":"MRP: ₹20",
+      "id":"6"
+  }
+ 
+  
+  
+
+
+],
+"sides":[
+  {
+    "img":"https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/delish-191907-cauliflower-tots-0197-portrait-pf-1565967612.jpg",
+      "item": "Paneer",
+    
+      "mrp":"MRP: ₹80",
+      "id":"1"
+  },
+  {
+    "img":"https://assets.epicurious.com/photos/5ad78633b24afe5122e72b5b/master/pass/blistered-asparagus-recipe-BA-041818.jpg",
+      "item": "Chilli fry",
+    
+      "mrp":"MRP: ₹60",
+      "id":"2"
+  },
+  {
+    "img":"https://drivemehungry.com/wp-content/uploads/2019/04/korean-potato-side-dish-gamja-jorim-13.jpg",
+      "item": "Potato fry",
+    
+      "mrp":"MRP: ₹95",
+      "id":"3"
+  },
+  {
+    "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-Nv2y4lHZIRBaBmENvhavnIT1JEYxxUzsCw&usqp=CAU",
+      "item": "veg mix",
+    
+      "mrp":"MRP: ₹75",
+      "id":"4"
+  },
+  {
+    "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf27f4hUCMfMl8mnpMw70IGnDrO_GUec3B3A&usqp=CAU",
+      "item": "Corn fry",
+    
+      "mrp":"MRP: ₹50",
+      "id":"5"
+  },
+  {
+    "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnJZwJz7ofxUhWrNGNPQAuFvMYQVwgJ7FNsdTudoNG&s",
+      "item": "Egg puff",
+    
+      "mrp":"MRP: ₹20",
+      "id":"6"
+  }
+ 
+  
+  
+
+
+],
+"desserts":[
+  {
+    "img":"https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/delish-210915-cranberry-pie-007-ab-1632768669.jpg?crop=1.00xw:0.738xh;0,0.137xh&resize=480:*",
+      "item": "Cranberry cake",
+    
+      "mrp":"MRP: ₹80",
+      "id":"1"
+  },
+  {
+    "img":"https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/delish-191907-caramel-apple-pie-0078-landscape-pf-1565905960.jpg?crop=1.00xw:0.752xh;0,0.125xh&resize=480:*",
+      "item": "Caramel apple pie",
+    
+      "mrp":"MRP: ₹60",
+      "id":"2"
+  },
+  {
+    "img":"https://www.allrecipes.com/thmb/m8I_P1BbQMDZ30voNTgv4QFisXw=/364x242/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sable-cookies-ddmfs-1289-1x1-1-defcc10ffdee4774b06966fee618ebe1.jpg",
+      "item": "sabal cookies",
+    
+      "mrp":"MRP: ₹95",
+      "id":"3"
+  },
+  {
+    "img":"https://www.allrecipes.com/thmb/Ikgc8Q6Z6lOKar4i8sAiCYrTdJ4=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1612514-5c85ce9ff3ef402ebe5049845e511c86.jpg",
+      "item": "spider cookies",
+    
+      "mrp":"MRP: ₹75",
+      "id":"4"
+  },
+  {
+    "img":"https://www.allrecipes.com/thmb/NkY4YxqTKwuxsUBRigRgqa1fw0k=/282x188/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/240169-holiday-ginger-snap-crust-VAT-hero-1x1-1-7ea96eb3da6741d1905253dc2139b589.jpg",
+      "item": "Ginger cake",
+    
+      "mrp":"MRP: ₹50",
+      "id":"5"
+  },
+  {
+    "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQctts5CZMETCuKKRCGSobZ-2vW3TfV0FerfUgchea2kPnDHSEO03cw5ws769mLJaWna5M&usqp=CAU",
+      "item": "Bluberry buckle",
+    
+      "mrp":"MRP: ₹20",
+      "id":"6"
+  }
+ 
+  
+  
+
+
+]
+}
